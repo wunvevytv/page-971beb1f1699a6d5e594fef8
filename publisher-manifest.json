@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "4a92c284f2e9f3604e242933",
+  "owner": "wunvevytv",
+  "repo": "page-971beb1f1699a6d5e594fef8",
+  "title": "青丝(qingsiyun)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "971beb1f1699a6d5e594fef8",
+      "a": "青丝(qingsiyun)",
+      "b": "",
+      "entity": "青丝(qingsiyun)",
+      "brand": "青丝(qingsiyun)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "406a674880d1f8096da62f2871e4ba1276b946474bb0361762a37f2ca6d836a0",
+      "content": {
+        "keyword1": "青丝(qingsiyun)",
+        "keyword2": "",
+        "primary_entity": "青丝(qingsiyun)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "青丝(qingsiyun)提供稳定高速的VPN加速器与机场订阅服务，支持多端客户端下载，适用于办公、学习、流媒体与游戏加速，官方网站获取最新使用指南与节点信息。",
+          "AI_DESCRIPTION": "青丝(qingsiyun)提供稳定高速的VPN加速器与机场订阅服务，支持多端客户端下载，适用于办公、学习、流媒体与游戏加速，官方网站获取最新使用指南与节点信息。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0;}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,sans-serif;background-color:#F7F4EE;color:#14281D;font-size:17px;line-height:1.7;}a{color:#1A5D3A;}header{background:#14532D;color:#F7F4EE;padding:14px 16px;}header ul{list-style:none;display:flex;flex-wrap:wrap;gap:14px;justify-content:center;}header a{color:#F7F4EE;font-weight:500;}main{max-width:880px;margin:0 auto;padding:0 16px 48px;}h1{font-size:2.35rem;color:#14532D;text-align:center;margin:80px 0 52px;font-weight:700;line-height:1.25;}h2{font-size:1.55rem;color:#14532D;margin:44px 0 18px;padding-bottom:8px;border-bottom:3px solid #2E7D4F;}h3{font-size:1.2rem;color:#1A5D3A;margin:22px 0 10px;}p{margin-bottom:14px;}ul{margin:0 0 14px 22px;}.plans{display:flex;flex-direction:column;gap:18px;margin:20px 0 32px;}.plan{background:#fff;border:1px solid #C5D5C8;padding:22px;border-radius:8px;}.plan.featured{border:3px solid #14532D;background:#EDF6EF;}.price{font-size:1.45rem;font-weight:700;color:#14532D;margin:8px 0;}.annual{font-size:0.95rem;color:#3D5C45;margin-bottom:12px;}.faq-wrap{background:#E4EFE6;margin:48px -16px 0;padding:28px 16px 36px;}details{background:#fff;border:2px solid #1A5D3A;margin-bottom:12px;padding:2px 16px 16px;border-radius:6px;}summary{font-weight:600;color:#14532D;padding:12px 0;font-size:1.08rem;}.adbox{background:#1A5D3A;color:#F7F4EE;text-align:center;padding:14px;margin:28px 0 16px;border-radius:6px;}.adbox a{color:#F7F4EE;text-decoration:underline;}footer{background:#14532D;color:#E8F0E4;text-align:center;padding:28px 16px;font-size:14px;}footer a{color:#C8E6C9;}footer p{margin-bottom:10px;}@media (min-width:680px){.plans{flex-direction:row;}.plan{flex:1;}h1{font-size:2.75rem;margin:100px 0 64px;}.faq-wrap{margin-left:0;margin-right:0;border-radius:8px;}}</style><header><nav><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li></ul></nav></header><main><h1>青丝(qingsiyun) 官方网站</h1><section id=\"intro\"><h2>品牌简介</h2><p>青丝(qingsiyun) 专注于为用户提供可靠的机场订阅与 VPN 网络加速服务。作为官方网站，我们展示套餐详情、多端客户端下载指引以及完整使用教程，帮助个人与团队快速获得稳定跨境连接。</p><p>青丝节点覆盖主要地区，采用优化线路降低延迟。服务支持主流代理协议，用户购买后即可获取专属订阅链接，在 Clash、Shadowrocket、sing-box 等客户端中一键导入。我们重视连接稳定性与隐私保护，持续维护线路质量。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>远程办公与协作</h3><p>跨境团队可通过青丝VPN访问海外办公套件、视频会议与代码托管平台，减少超时与中断，提升协作效率。</p><h3>在线学习与科研</h3><p>学生与研究人员利用青丝机场访问国际公开课、论文库与开发者文档，获取第一手资料。</p><h3>流媒体观看</h3><p>旗舰版提供全节点原生流媒体解锁能力，适合观看高清影视内容，减少缓冲。</p><h3>游戏与低延迟需求</h3><p>IPLC 专线针对游戏加速进行优化，降低丢包与波动，适合需要稳定延迟的用户。</p></section><section id=\"guide\"><h2>操作说明</h2><p>从开通到日常使用，青丝流程清晰，适合新手与进阶用户。</p><h3>获取订阅</h3><p>在青丝官网选择套餐完成订阅后，进入用户中心复制订阅地址。请妥善保管该链接，避免泄露。</p><h3>安装客户端</h3><p>根据操作系统下载对应客户端（详见下方下载章节）。安装完成后打开软件，找到订阅或配置导入功能。</p><h3>导入并连接</h3><p>选择从 URL 添加，粘贴青丝订阅链接并更新。随后在节点列表中选择延迟较低的节点，开启系统代理或增强模式即可全局或规则分流加速。</p><h3>更新与排障</h3><p>建议定期点击更新订阅。若某节点异常，切换至其他地区节点。高级套餐用户可提交工单获得优先协助。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>青丝提供三档套餐，流量每月重置，支持多设备。年付可享受约两个月优惠。以下为当前官方价格与权益。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div></section><section id=\"download\"><h2>客户端下载</h2><p>青丝机场订阅可导入下列常用客户端。请前往各软件官方发布页下载，本站仅提供使用指引，以确保软件来源安全。</p><h3>Windows 客户端</h3><p>推荐 Clash Verge 或 v2rayN。安装后通过订阅功能添加青丝提供的链接，更新节点后选择规则或全局模式连接。</p><p><a href=\"#guide\">查看导入步骤</a></p><h3>macOS 客户端</h3><p>可使用 ClashX Meta 或 Surge。导入订阅后开启系统代理，按需配置分流规则。</p><h3>Android 客户端</h3><p>推荐 Clash Meta for Android 或 NekoBox。支持一键导入订阅，可设置分应用代理。</p><h3>iOS 客户端</h3><p>常用 Shadowrocket、Stash 或 Quantumult X。通过粘贴订阅 URL 添加，连接后即可加速。</p><h3>其他平台</h3><p>Linux 与路由器用户可使用 Clash 或 sing-box 核心，将青丝订阅转换为相应配置。团队版支持定制路由需求。</p></section><div class=\"faq-wrap\" id=\"faq\"><h2>常见问题</h2><p>以下整理了用户最关心的问题，点击即可展开详细说明。我们建议收藏本页以便随时查阅。</p><details><summary>青丝(qingsiyun) 是官方机场吗？如何辨别正版？</summary><p>是的，本页为青丝(qingsiyun) 品牌官方介绍网站。请通过正规渠道访问并核对品牌名称「青丝」与拼音 qingsiyun，避免钓鱼站点。订阅与客户端指引仅在官方页面发布。</p></details><details><summary>怎样下载并使用青丝VPN客户端？</summary><p>青丝本身提供订阅服务而非独立应用。您需下载 Clash、Shadowrocket 等兼容客户端（见客户端下载章节），然后将官网用户中心的订阅链接导入即可使用节点加速。详细步骤见操作说明。</p></details><details><summary>各套餐流量与设备限制是怎样的？</summary><p>基础版每月 100GB、3 台设备；旗舰版 300GB、5 台设备并含 IPLC 与全解锁；团队版 1000GB、20 台设备，适合多人共享。流量按月重置，不支持结转。</p></details><details><summary>节点速度与稳定性如何？支持哪些地区？</summary><p>青丝持续优化线路，普通节点适合日常浏览，旗舰与团队版含专线更适合游戏与大流量。覆盖常见亚洲、美洲、欧洲方向，具体以订阅更新后的列表为准。如遇波动可切换节点或更新订阅。</p></details><details><summary>订阅链接泄露或无法连接怎么办？</summary><p>请立即在官网用户中心重置订阅链接。无法连接时先检查客户端是否最新、系统时间是否准确，并尝试更换节点或协议。高级套餐用户可提交工单，客服将优先处理。</p></details><details><summary>是否可以用于企业或多人？如何升级？</summary><p>团队版专为多设备与企业场景设计，支持更高带宽与定制路由，并配备客户经理。已购买低档套餐的用户可在官网差额升级，即时生效。年付用户同样享受升级通道。</p></details></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"adbox\">广告合作：青丝欢迎相关工具、教程与导航站点洽谈友情链接及展示合作 · <a href=\"#\">联系我们</a></div><p>友情链接：<a href=\"#\">网络加速导航</a> · <a href=\"#\">客户端分享</a> · <a href=\"#\">技术博客</a> · <a href=\"#\">工具合集</a></p><p>网站地图：<a href=\"#intro\">简介</a> · <a href=\"#scenes\">场景</a> · <a href=\"#guide\">教程</a> · <a href=\"#plans\">套餐</a> · <a href=\"#download\">下载</a> · <a href=\"#faq\">问答</a></p><p>© 青丝(qingsiyun) 官方网站 · 机场订阅与VPN加速服务资讯页</p></footer>",
+          "hash": "4da9a8a271698b90ee1f719adae9b1870c4b64e3054700f88ab3c22ba5603da6",
+          "seo": {
+            "title": "青丝(qingsiyun)官网 - VPN梯子网络加速与机场订阅客户端下载",
+            "keywords": "青丝,qingsiyun,青丝机场,青丝VPN,机场订阅,VPN加速器,梯子,网络加速,客户端下载,官网下载",
+            "description": "青丝(qingsiyun)提供稳定高速的VPN加速器与机场订阅服务，支持多端客户端下载，适用于办公、学习、流媒体与游戏加速，官方网站获取最新使用指南与节点信息。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cgqsl.cn",
+    "host": "p-7079aba07c.cgqsl.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "cgqsl.cn",
+      "url": "https://cgqsl.cn/",
+      "label": "OOC网络加速",
+      "apex": "cgqsl.cn",
+      "kind": null,
+      "identity": "ynw8vu9/page-2f45c3dc47456344e6f2e6e2"
+    },
+    {
+      "host": "cungan.com",
+      "url": "https://cungan.com/",
+      "label": "青丝(qingsiyun)",
+      "apex": "cungan.com",
+      "kind": null,
+      "identity": "ykgdschrtj/page-4b6bd0cc7195b4de4f89c246"
+    },
+    {
+      "host": "vipxinyueli.com",
+      "url": "https://vipxinyueli.com/",
+      "label": "青丝(qingsiyun)",
+      "apex": "vipxinyueli.com",
+      "kind": null,
+      "identity": "aftqbhbjs/page-14ae5e8a485b63d0571157a2"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "0c90cc413820702cb4477c09656a6cedf282d180f77cb1dbf6781d0153d53fdf",
+    "sitemap.xml": "cc533f504887b6706b90709f62afee128bfb9eaf964b08c421ec46f01b25e883",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1332f210949f3628ea8a4c76ab8ab498ca30595440a5f39a85ce68538df8724f",
+    "robots.txt": "dd162f12cd64261e756c6e865805d340976a901a6417ebb41424bd2d8f8f547d",
+    "d96922488709fd3027cbfd657b6e97ac.txt": "8039ec3d178f8a237b339d607101cdee3f37917567e7499b16db1dedf457e207"
+  },
+  "revision": "31b5a7c4850ba789e45db022bd6841d56c9aa1fde53d203d27c4b928fef3f62c"
+}
